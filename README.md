@@ -96,7 +96,7 @@ If you use this framework or code in your research, please cite our paper:
 
 ## License
 
-This project is licensed under a **Creative Commons License**. See the `LICENSE` file for more details.
+This project is licensed under a **Creative Commons License**.
 
 ## Acknowledgments
 
