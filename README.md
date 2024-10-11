@@ -48,7 +48,7 @@ The study uses an automotive dataset to assess how well these models answer ques
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your-repo/subjective-scoring-vqa-autonomous-driving.git
+   git clone https://github.com/your-repo/subjective_scoring_framework_vqa.git
    cd subjective-scoring-vqa-autonomous-driving
    ```
 
