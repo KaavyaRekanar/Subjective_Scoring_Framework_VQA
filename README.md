@@ -18,7 +18,6 @@ This repository contains the following files and folders:
 │   ├── automotive_dataset/                 # Sample automotive dataset used in the study
 │   └── vqa_questions/                      # Set of VQA questions used for evaluation
 ├── README.md                               # This readme file
-└── requirements.txt                        # Python dependencies for the project
 ```
 
 ## Framework Overview
